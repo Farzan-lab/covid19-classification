@@ -1,5 +1,5 @@
 # Covid-19_Classification_Streamlit
-CXR Classification with **streamlit**
+Classification with **streamlit**
 
 ## Datasets:
 * https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
