@@ -58,7 +58,7 @@ Upload An Image:
 ![1](covid19_classification/Images/upload_image.png)
 
 The sample:
-![2](covid19_classification/Images/COVID-19.jpeg)
+![2](covid19_classification/images/COVID-19.jpeg)
 
 Get the Classification Result:
 ![3](covid19_classification/Images/result.png)
