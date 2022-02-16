@@ -9,8 +9,7 @@ CXR Classification with **streamlit**
 ## Models:
 
  ![MobileNetV2](covid19_classification/Images/MobileNetV2.png)
- ![EfficientNetB0](covid19_classification/Images/EfficientNetB0.png)
-
+ ![EfficientNetB0](Images/EfficientNetB0.png)
 ## Usage
 
 #### Clone the repository
