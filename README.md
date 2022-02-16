@@ -7,8 +7,10 @@ CXR Classification with **streamlit**
 * https://www.kaggle.com/sid321axn/covid-cxr-image-dataset-research
 
 ## Models:
-
+### MobileNetV2:
  ![MobileNetV2](Images/MobileNetV2.png)
+ 
+ ### EfficientNetB0:
  ![EfficientNetB0](Images/EfficientNetB0.png)
 ## Usage
 
